@@ -1,5 +1,5 @@
 # task2
-**比较字符串"hello，世界"的长度 和for range 该字符串的循环次数**
+**比较字符串"hello，世界"的长度 和for range 该字符串的循环次数**  
 由题意可设计如下代码
 ```go
 package main

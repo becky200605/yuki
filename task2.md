@@ -1,5 +1,5 @@
 # task2
-**map和slice的内存扩容的区别**
+**map和slice的内存扩容的区别**  
 1.map  
 map可以动态伸缩，即达到容量上限时会自动扩容。  
 2.slice  
